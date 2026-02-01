@@ -5,8 +5,8 @@
 The designs were created to the following widths:
 
 - Small: <= 540px
-- Medium: 
-
+- Medium: 540px < width < 960px
+- Large: >= 960px
 
 ## Colors
 
